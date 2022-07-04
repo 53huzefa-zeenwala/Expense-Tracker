@@ -28,7 +28,7 @@ body {
   width: 350px;
 }
 
-.container > h4, h1, h3 {
+.container > h4, h1, h2, h3 {
   color: rgb(0, 229, 255);
 }
 
